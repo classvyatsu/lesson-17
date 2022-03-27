@@ -1,5 +1,5 @@
 {
-  "name": "lesson-17",
+  "name": "lesson-19",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -24,11 +24,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/classvyatsu/lesson-17.git"
+    "url": "git+https://github.com/classvyatsu/lesson-19.git"
   },
   "bugs": {
-    "url": "https://github.com/classvyatsu/lesson-17/issues"
+    "url": "https://github.com/classvyatsu/lesson-19/issues"
   },
-  "homepage": "https://github.com/classvyatsu/lesson-17#readme",
+  "homepage": "https://github.com/classvyatsu/lesson-19#readme",
   "description": ""
 }
